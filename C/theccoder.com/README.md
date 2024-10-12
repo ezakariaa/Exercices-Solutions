@@ -1,4 +1,4 @@
-**Notions de base: **
+**Notions de base:**
 
 - Exercice 1: Ecrire un programme C qui permet d’afficher le message suivant: Bonjour.
 - Exercice 2: Ecrire un programme C qui permet de lire en entrée un entier constitué de trois chiffres et d’afficher celui-ci inversé. Exemple: si l’entrée est 123 on affiche 321.
@@ -16,9 +16,9 @@
 On rappelle qu’un entier est dit premier s’il a exactement deux diviseurs différents; 1 et lui-même.
 Ex: 2, 3, 7, 17, 101 sont tous premiers, et 4, 10, 27 ne le sont pas.
 
-Tableaux
-Exercice 1: Ecrire un programme C qui lit un entier n, puis n autres entiers positifs dans un tableau, l’affiche puis calcul la somme, le max, et le min de ses éléments.
-Exercice 2: Ecrire un programme C qui lit un entier n, puis n autres éléments dans un tableau. Et, affiche ce dernier avant et après la suppression de toutes les occurrences d’un nombre entré par l’utilisateur.
+**Tableaux :**
+- Exercice 9: Ecrire un programme C qui lit un entier n, puis n autres entiers positifs dans un tableau, l’affiche puis calcul la somme, le max, et le min de ses éléments.
+- Exercice 10: Ecrire un programme C qui lit un entier n, puis n autres éléments dans un tableau. Et, affiche ce dernier avant et après la suppression de toutes les occurrences d’un nombre entré par l’utilisateur.
 
 Tris
 Exercice 1: Ecrire un programme C qui lit un tableau d’entiers et le tri dans un ordre croissant en utilisant le tri à bulles.
