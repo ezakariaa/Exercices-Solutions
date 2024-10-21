@@ -1,22 +1,24 @@
-Notions de base
-Exercice 1: Ecrire un programme C qui permet d’afficher le message suivant: Bonjour.
-Exercice 2: Ecrire un programme C qui permet de lire en entrée un entier constitué de trois chiffres et d’afficher celui-ci inversé. Exemple: si l’entrée est 123 on affiche 321.
-Exercice 3: Ecrire un programme C qui permet de lire deux nombres réels, et d’afficher ensuite leur produit, avec une précision de trois chiffres après la virgule.
+**Notions de base:**
 
-Conditions
-Exercice 1: Ecrire un programme C qui permet de dire si un entier est pair ou impair.
-Exercice 2: Ecrire un programme C qui permet de comparer deux entiers a et b, et d’afficher selon le cas l’un des messages suivants: a=b, a>b ou a<b.
-Exercice 3: Ecrire un programme C qui lit trois entiers pour les afficher ensuite dans un ordre croissant.
+- Exercice 1: Ecrire un programme C qui permet d’afficher le message suivant: Bonjour.
+- Exercice 2: Ecrire un programme C qui permet de lire en entrée un entier constitué de trois chiffres et d’afficher celui-ci inversé. Exemple: si l’entrée est 123 on affiche 321.
+- Exercice 3: Ecrire un programme C qui permet de lire deux nombres réels, et d’afficher ensuite leur produit, avec une précision de trois chiffres après la virgule.
 
-Boucles
-Exercice 1: Ecrire un programme C qui définit un nombre magique (un nombre secret), et lit des entiers à l’entrée jusqu’à ce que l’utilisateur trouve ce nombre. En lui indiquant à chaque fois s’il est en dessus ou au-dessous du nombre magique.
-Exercice 2: Ecrire un programme C qui lit un entier puis détermine s’il est premier ou non.
+**Conditions :**
+
+- Exercice 4: Ecrire un programme C qui permet de dire si un entier est pair ou impair.
+- Exercice 5: Ecrire un programme C qui permet de comparer deux entiers a et b, et d’afficher selon le cas l’un des messages suivants: a=b, a>b ou a<b.
+- Exercice 6: Ecrire un programme C qui lit trois entiers pour les afficher ensuite dans un ordre croissant.
+
+**Boucles :**
+- Exercice 7: Ecrire un programme C qui définit un nombre magique (un nombre secret), et lit des entiers à l’entrée jusqu’à ce que l’utilisateur trouve ce nombre. En lui indiquant à chaque fois s’il est en dessus ou au-dessous du nombre magique.
+- Exercice 8: Ecrire un programme C qui lit un entier puis détermine s’il est premier ou non.
 On rappelle qu’un entier est dit premier s’il a exactement deux diviseurs différents; 1 et lui-même.
 Ex: 2, 3, 7, 17, 101 sont tous premiers, et 4, 10, 27 ne le sont pas.
 
-Tableaux
-Exercice 1: Ecrire un programme C qui lit un entier n, puis n autres entiers positifs dans un tableau, l’affiche puis calcul la somme, le max, et le min de ses éléments.
-Exercice 2: Ecrire un programme C qui lit un entier n, puis n autres éléments dans un tableau. Et, affiche ce dernier avant et après la suppression de toutes les occurrences d’un nombre entré par l’utilisateur.
+**Tableaux :**
+- Exercice 9: Ecrire un programme C qui lit un entier n, puis n autres entiers positifs dans un tableau, l’affiche puis calcul la somme, le max, et le min de ses éléments.
+- Exercice 10: Ecrire un programme C qui lit un entier n, puis n autres éléments dans un tableau. Et, affiche ce dernier avant et après la suppression de toutes les occurrences d’un nombre entré par l’utilisateur.
 
 Tris
 Exercice 1: Ecrire un programme C qui lit un tableau d’entiers et le tri dans un ordre croissant en utilisant le tri à bulles.
